@@ -15,7 +15,7 @@ namespace FirstWebAppGk.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Gopi's Page.";
+            ViewBag.Message = "GHOST's Page.";
 
             return View();
         }
